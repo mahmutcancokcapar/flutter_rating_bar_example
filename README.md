@@ -1,6 +1,6 @@
 # Flutter Rating Bar
 
-Flutter Rating Bar, Flutter uygulamalarında kullanıcıların ürünlerinizi veya içeriğinizi değerlendirmelerini sağlayan bir Flutter paketidir. Uygulamanıza derecelendirme sistemi entegre etmenin kolay bir yolunu sağlar, böylece kullanıcılar ürünlerinizi veya içeriğinizi hızlı ve etkili bir şekilde değerlendirebilir.
+Flutter Rating Bar, Flutter uygulamalarında kullanıcıların ürünlerinizi veya içeriğinizi değerlendirmelerini sağlayan bir Flutter paketidir. Uygulamanıza derecelendirme sistemi entegre etmenin kolay bir yolunu sağlar, böylece kullanıcılar ürünlerinizi veya içeriğinizi hızlı ve etkili bir şekilde değerlendirebilir. Paylaşılmış kaynak kodda kullanımı gösterilmektedir.
 
 ## Özellikler
 
