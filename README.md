@@ -20,4 +20,5 @@ Flutter Rating Bar, Flutter uygulamalarında kullanıcıların ürünlerinizi ve
 
 ## Anlatım
 Bu Widget'ın nasıl kullanıldığını açıklayan Medium yazıma göz atabilirsiniz:
+
 https://medium.com/@mahmutcancokcapar/flutter-rating-bar-ile-derecelendirme-sistemi-52607c7d45eb
